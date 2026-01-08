@@ -24,7 +24,7 @@ function countVowels(str) {
   return count;
 }
 
-console.log(countVowels("Mr Nirob Sarkar"));
+console.log(countVowels("Sowvik Suvo"));
 
 // Problem 3: Check for Palindrome
 // Write a function that checks if a string is a palindrome (reads the same forward and backward).
@@ -126,7 +126,6 @@ function capitalizeWords(str) {
 }
 
 console.log(capitalizeWords("hello world"));
-
 
 // Problem 9: Find the Factorial of a Number
 // Write a function that calculates the factorial of a number using a loop.
